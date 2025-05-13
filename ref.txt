@@ -1,0 +1,366 @@
+Análise Detalhada dos Critérios de Lead Scoring para Absolut Sport Brasil
+Este documento tem como objetivo analisar cada um dos critérios de lead scoring fornecidos, compreendendo sua relevância para a Absolut Sport Brasil e como eles podem ser utilizados para qualificar leads de forma eficaz.
+1. Público (B2C e B2B)
+Descrição Fornecida: A Absolut Sport Brasil atende tanto o público B2C (consumidor final) quanto o B2B (empresas, como agências de viagens).
+
+Análise e Importância: A distinção entre B2C e B2B é fundamental, pois as motivações de compra, os processos de decisão, os volumes de negociação e os tipos de produtos/serviços de interesse diferem significativamente.
+
+B2C: Geralmente busca experiências esportivas pessoais ou para pequenos grupos. A decisão de compra pode ser mais emocional e o ciclo de vendas mais curto. O foco está em pacotes individuais, hospitalidade para lazer e experiências únicas.
+B2B: Pode envolver a compra de pacotes para grupos corporativos, incentivos para funcionários, revenda de pacotes (no caso de outras agências) ou parcerias estratégicas. O processo de decisão é mais racional, envolve múltiplos stakeholders e o ciclo de vendas tende a ser mais longo. O volume financeiro por transação também costuma ser maior.
+
+Implicações para Lead Scoring: A pontuação deve refletir essas diferenças. Um lead B2B com alto potencial pode ter um valor muito superior a um lead B2C, mesmo que este último também seja qualificado. Critérios específicos para cada público precisarão ser desenvolvidos ou ponderados de forma diferente.
+2. Faixa Etária
+Descrição Fornecida: B2C (36-45 anos) e B2B (35-50 anos).
+
+Análise e Importância: A faixa etária sugere um público com estabilidade financeira e profissional, capaz de investir em pacotes de viagem esportiva de alto valor.
+
+B2C (36-45 anos): Indivíduos em sua grande maioria empresários ou no auge de suas carreiras, de classe A+ e A, com renda disponível para lazer e experiências premium. Podem ter famílias e buscar experiências que acomodam acompanhantes ou amigos.
+B2B (35-50 anos): Profissionais em cargos de liderança ou donos de negócios, com poder de decisão para compras corporativas ou parcerias. Essa faixa etária geralmente combina experiência com dinamismo. Ex: Diretor comercial, Diretor de produtos, Diretor de marketing, CEO ou donos da empresa. 
+Relatado por nosso time comercial, temos dois tipos de agências: boutiques e agências grandes. Sendo a boutique mais rentável para Absolut sport, pois o ticket é maior dos pacotes e a revenda é para clientes de luxo, igual nosso público alvo. Já as agências grandes costumam comprar pacotes mais baratos para revenda, sem ser hospitality.
+ 
+Implicações para Lead Scoring: Leads dentro dessas faixas etárias prioritárias devem receber uma pontuação maior. É importante, no entanto, não descartar leads fora dessas faixas, mas sim atribuir-lhes uma pontuação menor ou segmentá-los para abordagens diferentes. A coleta precisa dessa informação (ex: através de formulários) é crucial.
+3. Cargo (B2B)
+Descrição Fornecida: Diretor comercial, diretor de produto, diretor de marketing, donos de agência, CEO, empresário do segmento de agência de viagens.
+
+Análise e Importância: No contexto B2B, o cargo do contato é um indicador fortíssimo do seu poder de decisão e da relevância da oferta da Absolut Sport para sua empresa.
+
+Cargos de Alta Direção (CEO, Donos, Diretores): Possuem autonomia para aprovar orçamentos significativos e estabelecer parcerias estratégicas. São os leads mais valiosos no B2B.
+Cargos de Gerência (Comercial, Produto, Marketing): Embora possam não ter a decisão final, são influenciadores chave e podem ser os responsáveis diretos pela prospecção e negociação de serviços como os da Absolut Sport.
+
+Implicações para Lead Scoring: Cargos de maior hierarquia e com responsabilidade direta sobre áreas de interesse (comercial, produto, marketing, parcerias) devem receber pontuações mais altas. É importante mapear os cargos mais estratégicos para o negócio B2B da Absolut Sport.
+
+
+Cargo (B2C)
+Cargos: Empresários, Donos de empresa e diretores. Através de nossas análises, conseguimos identificar que a grande maioria de nossos clientes B2C são donos de empresas. 
+
+
+
+4. Time de Preferência
+Descrição Fornecida: Flamengo, Fluminense e Botafogo. Popularidade, negócios, camarotes nos estádios desses times, parcerias oficiais (Botafogo, Fluminense para Mundial de Clubes, Flamengo futuramente).
+
+Análise e Importância: A preferência por um time específico, especialmente os mencionados, é um indicador de alto engajamento e potencial de conversão, dado o relacionamento estratégico da Absolut Sport com esses clubes.
+
+Parcerias Oficiais e Camarote: Ser parceiro oficial ou possuir camarotes cria uma oferta de valor única e exclusiva, que atrai fortemente os torcedores desses times. Leads que demonstram interesse nesses clubes têm maior probabilidade de adquirir pacotes relacionados.
+Popularidade: Times populares garantem uma base de fãs ampla, aumentando o volume de leads potenciais.
+
+Implicações para Lead Scoring: Leads que se identificam como torcedores de Flamengo, Fluminense ou Botafogo devem receber uma pontuação significativamente alta, especialmente se o interesse estiver atrelado a eventos ou produtos onde a Absolut Sport tem vantagens competitivas (camarotes, pacotes oficiais, campeonatos).
+
+5. Eventos e Segmentos de Interesse
+Descrição Fornecida: Futebol (Libertadores, Sul-Americana - parceria CONMEBOL; Brasileirão, Copa do Brasil, Carioca - foco em camarotes), Tênis, Fórmula 1, NFL Brasil.
+
+Análise e Importância: O interesse demonstrado em eventos específicos ou modalidades esportivas permite segmentar o lead e direcionar ofertas mais assertivas.
+
+Parcerias Estratégicas (CONMEBOL): Eventos como Libertadores e Sul-Americana são cruciais devido à parceria com a CONMEBOL, confere à Absolut Sport acesso privilegiado ou condições especiais, sendo a agência oficial para final . Leads interessados nesses eventos são de alta prioridade.
+Foco em Camarotes (Campeonatos Nacionais/Regionais): Para Brasileirão, Copa do Brasil e Carioca, o foco nos camarotes para a base de clientes do Rio de Janeiro (Flamengo, Botafogo, Fluminense) é um nicho importante.
+Outras Modalidades (Tênis, F1, NFL): Demonstram a diversidade do portfólio da Absolut Sport e atraem públicos com interesses variados e, muitas vezes, alto poder aquisitivo.
+
+Implicações para Lead Scoring: *   Interesse em eventos com parceria (Libertadores, Sul-Americana) deve gerar a maior pontuação. *   Interesse em eventos onde há camarotes e a base de clientes é forte (futebol nacional/regional para torcedores dos times do RJ) também deve ser bem pontuado. *   Interesse em outras modalidades de alto padrão (Tênis, F1, NFL) também qualifica o lead, mas a pontuação pode variar dependendo da estratégia e margens associadas a cada um.
+
+5.1  Eventos e convenções 
+Pontuar leads que converteram em LPs específicas, com base no valor estratégico de cada evento para a empresa (parceria oficial, margem, público-alvo, potencial de vendas e relevância da base).
+
+
+
+1. Camada 1: Parcerias Oficiais CONMEBOL (Máxima prioridade)
+Leads vindos de LPs de eventos em que a Absolut Sport é agência oficial – alta conversão esperada e prioridade máxima no atendimento. Libertadores,  Sul Americana. Times parceiros Botafogo, Flamengo futuramente. 
+2. Camada 2: Camarotes no Futebol Nacional (Foco RJ)
+Leads oriundos de LPs de camarotes em jogos relevantes no Maracanã e Nilton Santos, para clubes com base fiel: Flamengo, Fluminense, Botafogo. Justificativa: Lead demonstra afinidade com o clube e perfil para produtos premium. Converte bem e tem alto índice de engajamento com o time.
+3. Camada 3: Eventos Premium 
+Leads oriundos de LPs para Fórmula 1, Tênis (ex: Roland Garros), NFL Brasil. Eventos com tíquete alto e perfil A+, mas com maior variação de perfil e sazonalidade.
+Justificativa: Eventos com tíquete médio-alto, muito desejados por públicos de alto poder aquisitivo, mas dependem de maior esforço de conversão (exceto F1 Brasil).
+4. Camada 4: Futebol Nacional sem Camarote
+Leads vindos de LPs que envolvem experiências em jogos fora do foco principal (RJ ou sem camarote).
+Justificativa: Importante para expansão da base, mas menor taxa de conversão em produtos de alto valor. Pode servir como porta de entrada para novas regiões.
+
+
+
+
+
+
+6. Tipos de Pacotes
+Descrição Fornecida: Pacotes de hospitalidade (completo) vs. mais simples.
+
+Análise e Importância: O tipo de pacote pelo qual o lead demonstra interesse (ou que se encaixa no seu perfil) indica seu potencial de gasto e o nível de experiência que busca.
+
+Pacotes de Hospitalidade (Completo): Geralmente incluem ingressos VIP, acesso a áreas exclusivas, catering, transporte, hospedagem de alto nível, etc. São produtos de maior valor agregado e margem, atraindo clientes dispostos a pagar por uma experiência premium.
+Pacotes Mais Simples: Podem incluir apenas ingresso e hotel, ou ingresso e transporte. Atendem a um público mais sensível a preço ou que busca uma experiência mais básica.
+
+Implicações para Lead Scoring: Leads que demonstram interesse ou se qualificam para pacotes de hospitalidade devem receber uma pontuação mais alta, pois representam um maior valor potencial de venda. A identificação desse interesse pode vir de interações no site, respostas a campanhas ou histórico de compras anteriores.
+7. Net Promoter Score (NPS)
+Descrição Fornecida: Entender a experiência do cliente através da pesquisa de experiência, oferecer algo para quem teve experiência ruim e ofertar mais e relacionar com quem teve boas.
+
+Análise e Importância: O NPS é uma métrica valiosa para medir a lealdade e satisfação do cliente. Utilizá-lo no lead scoring (para clientes existentes) ou como um qualificador (para novos leads que já tiveram alguma experiência com a marca, mesmo que indireta) é estratégico.
+
+Promotores (NPS Alto): Clientes satisfeitos e leais. São excelentes candidatos para novas ofertas, upgrades, programas de fidelidade e podem atuar como defensores da marca. Devem ser nutridos e receber ofertas exclusivas.
+Neutros (NPS Médio): Clientes satisfeitos, mas não entusiastas. Há oportunidade de convertê-los em promotores através de um bom relacionamento e ofertas personalizadas.
+Detratores (NPS Baixo): Clientes insatisfeitos. Requerem atenção imediata para entender os problemas e tentar reverter a experiência negativa. Podem não ser o foco para vendas imediatas, mas sim para recuperação e feedback.
+
+Implicações para Lead Scoring (para clientes existentes): *   Promotores devem receber uma pontuação alta, indicando alta propensão a recompra e engajamento. *   Neutros podem receber uma pontuação moderada, com foco em nutrição. *   Detratores podem receber uma pontuação baixa ou até negativa em termos de
+
+propensão à venda, mas alta prioridade para ação de retenção/resolução.
+8. Região Geográfica
+Descrição Fornecida: Rio de Janeiro, São Paulo são cidades mais interessantes. Camarotes no Rio. Clientes do Rio são levados para outros locais. Eventos em São Paulo.
+
+Análise e Importância: A localização do lead é um fator geográfico importante, especialmente devido à concentração de produtos chave (camarotes) e eventos em cidades específicas.
+
+Rio de Janeiro: Altamente estratégico devido aos camarotes nos estádios dos principais times parceiros (Flamengo, Fluminense, Botafogo) e por ser a origem de muitos clientes que viajam para outros eventos.
+São Paulo: Relevante pela ocorrência de eventos e por ser um grande mercado emissor de turistas com alto poder aquisitivo.
+Outras Regiões: Podem ter potencial, mas talvez exijam uma logística diferente ou um foco em produtos específicos (ex: pacotes para eventos internacionais partindo de suas localidades).
+
+Implicações para Lead Scoring: *   Leads localizados no Rio de Janeiro devem receber uma pontuação alta, especialmente se demonstrarem interesse nos times locais ou em produtos de camarote. *   Leads de São Paulo também devem ser bem pontuados, dado o potencial de mercado e a ocorrência de eventos. *   Outras regiões podem ter pontuações menores ou segmentadas para ofertas específicas.
+9. Histórico de Compras (B2C/B2B)
+Descrição Fornecida: Entender o produto que comprou e pontuar. Se comprou, torna-se oportunidade de vender outra coisa ou ofertar para o mesmo evento no próximo ano.
+
+Análise e Importância: Clientes existentes são, em geral, mais fáceis e baratos de converter do que novos leads. O histórico de compras fornece insights valiosos sobre suas preferências, capacidade de gasto e lealdade.
+
+Tipo de Produto Comprado Anteriormente: Indica o nível de interesse e o tipo de experiência que o cliente valoriza (ex: pacote de hospitalidade vs. pacote simples, tipo de evento).
+Frequência de Compra: Clientes recorrentes são extremamente valiosos.
+Valor das Compras Anteriores (Ticket Médio): Indica o potencial de gasto do cliente.
+Data da Última Compra: Compras recentes podem indicar um engajamento maior.
+
+Implicações para Lead Scoring: *   Clientes que já compraram devem receber uma pontuação base mais alta do que novos leads. *   A pontuação deve ser incrementada com base no valor e tipo dos produtos comprados (ex: compradores de pacotes de hospitalidade recebem mais pontos). *   Recorrência de compra e compras recentes também devem adicionar pontos significativos. *   Identificar se a compra foi B2C ou B2B também é crucial para direcionar as ofertas subsequentes (cross-sell, up-sell, recompra para o mesmo evento).
+10. Carrinho Abandonado
+Descrição Fornecida: Cliente já está super disposto a comprar, talvez uma comunicação direta seja o que falta.
+
+Análise e Importância: O abandono de carrinho é um forte indicador de intenção de compra. O lead demonstrou interesse claro em um produto específico, avançou no funil de vendas, mas, por algum motivo, não finalizou a transação. Esses leads são considerados "quentes".
+
+Motivos para Abandono: Podem variar (custo inesperado, processo de checkout complicado, distração, necessidade de mais informações, comparação de preços).
+Oportunidade: Uma comunicação rápida e direcionada (e-mail de recuperação de carrinho, oferta especial, contato telefônico) pode ser altamente eficaz para converter esses leads.
+
+Implicações para Lead Scoring: *   Leads que abandonaram carrinhos devem receber uma pontuação muito alta, sinalizando a necessidade de uma ação imediata da equipe de vendas ou de um fluxo de automação específico. *   A pontuação pode ser ainda maior se o valor do carrinho abandonado for alto ou se incluir produtos estratégicos (pacotes de hospitalidade, eventos com parceria).
+11. Frequência de Interação (E-mail, Visitas em Páginas)
+Descrição Fornecida: Entender qual frequência ele vai em nossa página, abre nossos e-mails.
+
+Análise e Importância: O engajamento digital do lead com os canais da Absolut Sport (site, e-mails) é um termômetro do seu interesse e do quão "aquecido" ele está.
+
+Visitas ao Site:
+Páginas Visitadas: Visitas a páginas de produtos específicos, páginas de eventos de alta prioridade ou páginas de preços são indicadores fortes de interesse.
+Frequência e Recência das Visitas: Múltiplas visitas ou visitas recentes aumentam a qualificação do lead.
+Tempo Gasto na Página: Maior tempo pode indicar maior interesse.
+Interação com E-mails:
+Taxa de Abertura: Indica que o assunto foi relevante para o lead.
+Taxa de Cliques (CTR): Cliques em links específicos dentro do e-mail (ex: link para um pacote, para um evento) são um forte sinal de interesse no conteúdo clicado.
+
+Implicações para Lead Scoring: *   Atribuir pontos para cada tipo de interação (abertura de e-mail, clique em e-mail, visita à página). *   Páginas estratégicas (ex: página de um pacote de Libertadores, página de camarote do Flamengo) devem gerar mais pontos por visita. *   Cliques em CTAs importantes em e-mails também devem ter pontuação elevada. *   A frequência e recência dessas interações devem influenciar a pontuação (ex: um lead que visitou a página de um pacote hoje é mais quente do que um que visitou há 3 meses). *   Implementar um sistema de decay de pontos, onde a pontuação por interação diminui com o tempo se não houver novas interações.
+12. Interação com Fluxos de Automação
+Descrição Fornecida: Fluxos de automação.
+
+Análise e Importância: A forma como um lead progride ou interage dentro de um fluxo de automação de marketing ou nutrição pode fornecer sinais valiosos sobre seu nível de interesse e maturidade.
+
+Conclusão de Etapas Chave: Se um lead completa etapas importantes de um fluxo (ex: baixa um material rico sobre um destino específico, assiste a um webinar sobre um evento), isso demonstra engajamento.
+Respostas a E-mails Automatizados: Semelhante à interação com e-mails gerais, mas no contexto de uma nutrição específica.
+Entrada em Fluxos Específicos: A própria qualificação para entrar em um fluxo (ex: fluxo para interessados em NFL Brasil após preencher um formulário) já é um indicador.
+
+Implicações para Lead Scoring: *   Atribuir pontos quando um lead entra em fluxos de nutrição específicos que indicam um interesse particular. *   Pontuar positivamente a conclusão de etapas importantes dentro desses fluxos. *   Interações (aberturas, cliques) com e-mails de fluxos de automação também devem ser pontuadas, possivelmente com pesos diferentes dependendo da relevância do fluxo e da ação.
+
+Com a análise detalhada de cada critério concluída, o próximo passo é propor uma estrutura de pontuação e a régua de priorização.
+
+
+
+
+Proposta de Sistema de Pontuação de Leads para Absolut Sport Brasil
+A seguir, apresentamos uma proposta de estrutura de pontuação para os leads da Absolut Sport Brasil, baseada na análise dos critérios fornecidos e nas melhores práticas de mercado. Este sistema visa qualificar e priorizar os leads de forma eficaz, otimizando os esforços das equipes de marketing e vendas.
+
+Escala de Pontuação Geral: Sugerimos uma escala base que pode ser ajustada, mas que permite uma boa diferenciação. Os pontos são cumulativos. Uma pontuação total mais alta indica um lead mais qualificado.
+Critérios Demográficos e de Perfil
+1. Tipo de Público
+B2B (Empresa): +20 pontos
+Justificativa: Leads B2B geralmente representam um valor de negociação maior e potencial de parcerias estratégicas ou compras em volume. A identificação como B2B já sinaliza um potencial diferente do B2C.
+B2C (Consumidor Final): +5 pontos
+Justificativa: Embora o foco individual seja menor que o B2B em termos de valor por transação, ainda representa o core de muitas vendas de pacotes de experiência.
+2. Faixa Etária
+Dentro da Faixa Ideal (B2C: 36-45 anos; B2B: 35-50 anos): +10 pontos
+Justificativa: Conforme definido pelo estudo interno, estas faixas etárias representam o público com maior probabilidade de ter estabilidade financeira e interesse nos produtos da Absolut Sport.
+Fora da Faixa Ideal, mas Próximo (ex: B2C 30-35 ou 46-50; B2B 30-34 ou 51-55): +5 pontos
+Justificativa: Ainda podem ser clientes em potencial, mas com menor prioridade inicial.
+Muito Fora da Faixa Ideal: 0 pontos
+Justificativa: Menor probabilidade de conversão com base no perfil ideal traçado.
+3. Cargo (Aplicável principalmente para B2B)
+Nível C-Level (CEO, Dono de Agência, Presidente): +25 pontos
+Justificativa: Poder de decisão máximo, contatos estratégicos.
+Diretoria (Comercial, Produto, Marketing): +20 pontos
+Justificativa: Alto poder de decisão e influência direta nas áreas de interesse da Absolut Sport.
+Gerência (Comercial, Produto, Marketing, Eventos): +15 pontos
+Justificativa: Influenciadores chave e decisores em níveis táticos, podem gerenciar orçamentos para eventos e viagens.
+Outros Cargos em Agência de Viagem (para B2B): +10 pontos
+Justificativa: Potencial de revenda ou parceria.
+Cargo não informado ou não relevante (para B2B): 0 pontos
+4. Região Geográfica
+Rio de Janeiro: +15 pontos
+Justificativa: Localização dos camarotes e base principal de clientes para eventos locais e viagens.
+São Paulo: +10 pontos
+Justificativa: Mercado emissor importante e local de eventos relevantes.
+Outras Capitais/Grandes Cidades (Brasil): +5 pontos
+Justificativa: Potencial de mercado secundário.
+Interior ou Cidades Menores: 0 pontos
+Critérios de Interesse e Parceria
+5. Time de Preferência (Futebol)
+Flamengo, Fluminense ou Botafogo (declarado): +20 pontos
+Justificativa: Times com parcerias oficiais, camarotes e forte base de clientes. A declaração de preferência por um desses times indica um lead altamente engajado com produtos chave.
+Outro time da Série A do Brasileirão: +5 pontos
+Justificativa: Interesse em futebol, pode ser nutrido para outros eventos ou pacotes.
+Sem time de preferência ou time de menor expressão: 0 pontos
+5.1 Conversão LP 
+
+1. Camada : Parcerias Oficiais CONMEBOL (Máxima prioridade) +20 pontos
+2. Camada : Camarotes no Futebol Nacional (Foco RJ) +15 Pontos
+3. Camada: Eventos Premium + 15 pontos
+4 Camada : Futebol Nacional sem Camarote +10 pontos 
+
+6. Interesse em Eventos/Segmentos
+Eventos CONMEBOL (Libertadores, Sul-Americana): +25 pontos
+Justificativa: Parceria estratégica, produtos exclusivos, alta demanda e margem.
+Eventos com Camarote (Brasileirão, Copa do Brasil, Carioca - para torcedores dos times do RJ): +20 pontos
+Justificativa: Produto premium com alta conversão para o público-alvo local.
+Fórmula 1: +15 pontos
+Justificativa: Evento de alto padrão, atrai público com poder aquisitivo elevado.
+NFL Brasil: +15 pontos
+Justificativa: Novo mercado com grande potencial e interesse crescente, público engajado.
+Tênis (Grand Slams, Masters): +10 pontos
+Justificativa: Nicho de público com bom poder aquisitivo, interessado em viagens internacionais.
+Outros eventos de futebol (sem ser CONMEBOL ou os de camarote): +5 pontos
+Convenções LP  
+7. Interesse em Tipos de Pacotes
+Pacotes de Hospitalidade (Completo): +20 pontos (se interesse explícito ou inferido por navegação)
+Justificativa: Maior valor agregado, maior ticket médio, cliente busca experiência premium.
+Pacotes Mais Simples (Ingresso + Hotel, etc.): +5 pontos
+Justificativa: Ainda é um cliente em potencial, mas com menor valor inicial de compra.
+Critérios Comportamentais e de Engajamento
+8. Histórico de Compras
+Já comprou anteriormente: +30 pontos (base)
+Justificativa: Custo de aquisição menor, já conhece a marca. É um forte indicador de potencial para nova compra.
+Se comprou pacote de hospitalidade: +15 pontos adicionais
+Se comprou para evento CONMEBOL/F1/NFL: +10 pontos adicionais
+Compra recorrente (2+ vezes): +20 pontos adicionais
+Última compra nos últimos 12 meses: +10 pontos adicionais
+9. Carrinho Abandonado
+Carrinho abandonado nos últimos 7 dias: +35 pontos
+Justificativa: Altíssima intenção de compra. Requer ação imediata.
+Valor do carrinho abandonado > R$ 5.000: +10 pontos adicionais
+10. Frequência de Interação Digital (nos últimos 30 dias)
+Abertura de E-mail Marketing:
+1-2 aberturas: +2 pontos
+3-5 aberturas: +5 pontos
+6+ aberturas: +8 pontos
+Clique em E-mail Marketing:
+1-2 cliques: +5 pontos
+3+ cliques: +10 pontos
+Clique em link de produto/evento estratégico: +5 pontos adicionais por clique (máx +15)
+Visitas ao Site:
+1-2 visitas: +2 pontos
+3-5 visitas: +5 pontos
+6+ visitas: +8 pontos
+Visita a Páginas Estratégicas (Ex: Libertadores, F1, NFL, Hospitalidade, Camarotes): +5 pontos por tipo de página estratégica visitada (máx +15)
+Tempo Gasto em Páginas de Produto/Evento (> 2 minutos): +3 pontos por página (máx +9)
+11. Interação com Fluxos de Automação (nos últimos 30 dias)
+Entrou em fluxo de nutrição específico (ex: interessados em NFL): +5 pontos
+Completou etapa chave em fluxo (ex: download de guia sobre evento): +8 pontos
+Clicou em CTA de e-mail de fluxo de nutrição: +5 pontos
+12. Net Promoter Score (NPS) - Para Clientes Existentes
+Promotor (NPS 9-10): +20 pontos
+Justificativa: Cliente leal, alta probabilidade de recompra e de indicar a marca.
+Neutro (NPS 7-8): +5 pontos
+Justificativa: Satisfeito, mas com espaço para encantamento e novas ofertas.
+Detrator (NPS 0-6): -10 pontos (para fins de venda imediata, mas prioridade para equipe de Sucesso do Cliente)
+Justificativa: Cliente insatisfeito, requer atenção para resolução de problemas antes de novas ofertas agressivas. A pontuação negativa aqui ajuda a segmentar para ações de retenção/recuperação.
+
+Observações Importantes sobre a Pontuação:
+
+Dados Implícitos vs. Explícitos: Sempre que possível, basear a pontuação em dados explícitos (fornecidos pelo lead). Dados implícitos (inferidos pelo comportamento) são valiosos, mas podem ter menor peso inicial.
+Decaimento de Pontos (Score Decay): Implementar um sistema onde pontos por engajamento (visitas, aberturas de e-mail) perdem valor ao longo do tempo se não houver novas interações (ex: reduzir 20% do valor desses pontos a cada 30 dias sem nova interação relevante). Isso mantém a pontuação dinâmica e reflete o interesse atual do lead.
+Pontuação Negativa: Utilizada para identificar leads que não se encaixam no perfil ou que demonstraram desinteresse explícito (ex: descadastro de e-mail, feedback muito negativo). Pode ser usada para limpar a base ou direcionar para fluxos de recuperação.
+Revisão Constante: O sistema de lead scoring não é estático. Deve ser revisado e ajustado periodicamente (ex: a cada trimestre) com base nos resultados de conversão, feedback das equipes de vendas e marketing, e mudanças no mercado ou no portfólio de produtos.
+
+Esta estrutura de pontuação visa fornecer uma base sólida. A próxima etapa é definir a régua de priorização, que classificará os leads com base na pontuação total acumulada.
+Régua de Priorização e Classificação de Leads da Absolut Sport Brasil
+Com base no sistema de pontuação detalhado anteriormente, a régua de priorização classifica os leads em diferentes níveis, indicando o seu grau de preparo para uma abordagem comercial e as ações recomendadas. Esta régua visa otimizar o tempo da equipe de vendas, focando nos leads com maior potencial de conversão, e direcionar os esforços de nutrição para os leads que ainda precisam amadurecer.
+Ponderação dos Critérios (Implícita na Pontuação)
+A estrutura de pontuação já atribui pesos diferentes aos critérios, refletindo sua importância relativa:
+
+Comportamentos de Alta Intenção: Critérios como "Carrinho Abandonado" (+35 pontos base) e "Histórico de Compras" (cliente existente, +30 pontos base, com bônus significativos) recebem as maiores pontuações isoladas, pois indicam uma propensão muito alta à compra ou um relacionamento já estabelecido.
+Interesse Explícito em Produtos Estratégicos: Interesse em "Eventos CONMEBOL" (+25 pontos) ou ser um "Torcedor de Flamengo, Fluminense ou Botafogo" (+20 pontos) também têm peso elevado devido às parcerias e ao foco comercial da Absolut Sport.
+Perfil Demográfico Qualificado (B2B): Um "CEO/Dono de Agência" (+25 pontos) ou "Diretor" (+20 pontos) no B2B também são altamente valorizados pelo seu poder de decisão.
+Engajamento Digital Consistente: Múltiplas interações com e-mails e visitas a páginas estratégicas, embora com pontuações individuais menores, podem somar um valor considerável, indicando um lead aquecido.
+Perfil Demográfico Básico: Critérios como faixa etária e região fornecem uma base de qualificação, mas têm um peso individual menor comparado aos comportamentais e de interesse explícito.
+NPS: Para clientes existentes, o NPS atua como um forte qualificador (Promotores +20) ou um sinal de alerta (Detratores -10 para vendas, mas prioridade para Sucesso do Cliente).
+Níveis de Classificação de Leads e Ações Recomendadas
+Propomos quatro níveis principais de classificação com base na pontuação total acumulada. Os intervalos de pontuação são sugestões e devem ser calibrados após a implementação inicial e análise dos primeiros resultados.
+
+
+
+NÍVEL 1: Lead Muito Quente / Oportunidade Imediata (SQL - Sales Qualified Lead)
+
+Pontuação Sugerida: Acima de 100 pontos (Este valor é um exemplo e precisa ser testado. Pode ser que 85+ já seja um SQL, dependendo do volume e da taxa de conversão observada).
+Características Típicas:
+Abandonou um carrinho recentemente.
+Cliente existente com histórico de compras relevantes e/ou NPS Promotor.
+Lead B2B com cargo de alta direção que demonstrou interesse explícito em produto estratégico.
+Demonstrou interesse claro em eventos CONMEBOL ou é torcedor de time parceiro e interagiu fortemente com conteúdo relacionado.
+Combinação de múltiplos fatores de alta pontuação (ex: perfil ideal + interesse em pacote de hospitalidade + engajamento digital alto).
+Justificativa da Prioridade: Estes leads demonstraram os sinais mais fortes de intenção de compra ou representam o maior valor potencial. A chance de conversão é alta se abordados rapidamente e de forma personalizada.
+Ações Recomendadas:
+Time Comercial: Contato imediato (preferencialmente em poucas horas). Abordagem personalizada, referenciando o interesse demonstrado (carrinho, histórico, página visitada).
+E-commerce B2C: Se for um carrinho abandonado, envio automático de e-mail de recuperação com possível incentivo (frete grátis, pequeno desconto se estratégico). Para outros SQLs B2C, pode haver um fluxo de automação mais curto e direto para a compra ou um alerta para contato proativo se o valor for muito alto.
+Marketing: Monitorar a conversão e fornecer ao comercial informações detalhadas sobre o comportamento do lead.
+
+
+
+NÍVEL 2: Lead Quente / Qualificado para Marketing (MQL - Marketing Qualified Lead)
+
+Pontuação Sugerida: 65 - 99 pontos (Exemplo, ajustar conforme a realidade).
+Características Típicas:
+Perfil demográfico adequado (B2C ou B2B).
+Demonstrou interesse em eventos ou tipos de pacotes específicos (ex: F1, NFL, pacotes de hospitalidade).
+Engajamento digital consistente (visitas a páginas importantes, cliques em e-mails).
+Pode ser um cliente existente com NPS Neutro, mas com histórico de compras menos expressivo que um SQL.
+Lead B2B com cargo de gerência interessado em produtos.
+Justificativa da Prioridade: Estes leads estão claramente interessados e se encaixam no perfil, mas podem precisar de um pouco mais de informação ou de um empurrão final antes de estarem prontos para a compra imediata. São o principal foco da nutrição avançada.
+Ações Recomendadas:
+Marketing: Incluir em fluxos de nutrição avançados e personalizados, com conteúdo específico sobre os produtos/eventos de interesse. Oferecer materiais ricos (guias, comparativos), webinars, estudos de caso. Considerar retargeting.
+Time Comercial: Pode iniciar um contato consultivo (não tão direto quanto SQLs), oferecendo ajuda, tirando dúvidas, especialmente se o lead interagir fortemente com os materiais de nutrição. Para B2B, pode ser o momento de uma primeira ligação de qualificação mais aprofundada.
+E-commerce B2C: Exibir ofertas personalizadas no site, e-mails com recomendações baseadas no interesse.
+
+
+
+NÍVEL 3: Lead Morno / Potencial a ser Nutrido
+
+Pontuação Sugerida: 30 - 64 pontos (Exemplo, ajustar conforme a realidade).
+Características Típicas:
+Perfil demográfico parcialmente alinhado.
+Demonstrou algum interesse inicial (ex: baixou um e-book genérico, visitou o site algumas vezes, abriu alguns e-mails).
+Pode ser um novo lead que se inscreveu na newsletter.
+Interesse em produtos/eventos de menor prioridade estratégica.
+Justificativa da Prioridade: Estes leads demonstraram algum nível de interesse, mas ainda não estão maduros o suficiente para uma abordagem de vendas ou mesmo para uma nutrição muito específica. O objetivo é aumentar o engajamento e qualificá-los melhor.
+Ações Recomendadas:
+Marketing: Incluir em fluxos de nutrição mais gerais e educativos sobre o universo das viagens esportivas, os diferenciais da Absolut Sport. Enviar newsletters com novidades, dicas de viagem, informações sobre os principais eventos esportivos. Incentivar o engajamento nas redes sociais.
+Time Comercial: Geralmente não são acionados neste estágio, a menos que haja um pico de engajamento que o eleve para MQL.
+E-commerce B2C: Conteúdo informativo no blog, posts em redes sociais para manter a marca presente.
+
+
+
+NÍVEL 4: Lead Frio / Baixa Prioridade ou Desqualificado
+
+Pontuação Sugerida: Abaixo de 29 pontos (Exemplo, ajustar conforme a realidade).
+Características Típicas:
+Perfil demográfico desalinhado.
+Baixíssimo ou nenhum engajamento digital.
+Informações de contato incompletas ou inválidas.
+Pode incluir clientes existentes com NPS Detrator (que devem ser tratados pelo Sucesso do Cliente, não para vendas imediatas).
+Solicitou descadastro da lista de e-mails.
+Justificativa da Prioridade: Baixa probabilidade de conversão no momento. Esforços de venda diretos seriam ineficientes.
+Ações Recomendadas:
+Marketing: Manter em listas de comunicação de baixa frequência (se opt-in) ou considerar a remoção da base ativa após um período de inatividade para manter a higiene da lista. Para detratores, direcionar para fluxos de pesquisa de satisfação e tentativa de recuperação de relacionamento.
+Time Comercial: Não são acionados.
+E-commerce B2C: Nenhuma ação específica de venda.
+
+
+
+Considerações Adicionais para a Régua:
+
+Flexibilidade: A régua deve ser flexível. Um lead pode pular etapas (ex: um lead novo que abandona um carrinho de alto valor pode ir direto para SQL).
+Feedback Loop: É crucial que haja um sistema de feedback entre as equipes de Vendas e Marketing. Vendas deve informar Marketing sobre a qualidade dos MQLs e SQLs recebidos, o que ajudará a refinar os critérios de pontuação e os limiares da régua.
+Automação: A maior parte da classificação e do direcionamento inicial para fluxos de nutrição deve ser automatizada por uma ferramenta de CRM/Automação de Marketing.
+
+Com esta régua de priorização, a Absolut Sport Brasil poderá direcionar seus recursos de forma mais inteligente, aumentando a eficiência das vendas e melhorando a experiência do cliente através de comunicações mais relevantes e oportunas.
+
+

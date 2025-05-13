@@ -1,0 +1,666 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Documentação Lead Scoring - Absolut Sport Brasil</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Bootstrap Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <!-- Sidebar -->
+            <nav id="sidebar" class="col-md-3 col-lg-2 d-md-block bg-light sidebar collapse">
+                <div class="position-sticky pt-3">
+                    <div class="sidebar-header">
+                        <h5>Lead Scoring</h5>
+                        <p class="text-muted">Absolut Sport Brasil</p>
+                    </div>
+                    <ul class="nav flex-column">
+                        <li class="nav-item">
+                            <a class="nav-link active" href="#introducao">
+                                <i class="bi bi-house-door"></i>
+                                Introdução
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#criterios">
+                                <i class="bi bi-list-check"></i>
+                                Critérios de Pontuação
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#eventos-convencoes">
+                                <i class="bi bi-calendar-event"></i>
+                                Eventos e Convenções
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#sistema-pontuacao">
+                                <i class="bi bi-calculator"></i>
+                                Sistema de Pontuação
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#niveis-classificacao">
+                                <i class="bi bi-bar-chart"></i>
+                                Níveis de Classificação
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#consideracoes-adicionais">
+                                <i class="bi bi-gear"></i>
+                                Considerações Adicionais
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+
+            <!-- Main content -->
+            <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
+                <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+                    <h1 class="h2">Documentação Lead Scoring</h1>
+                </div>
+
+                <section id="introducao" class="mb-5">
+                    <h2>Introdução</h2>
+                    <p>Este documento tem como objetivo analisar cada um dos critérios de lead scoring fornecidos, compreendendo sua relevância para a Absolut Sport Brasil e como eles podem ser utilizados para qualificar leads de forma eficaz.</p>
+                    
+                    <div class="alert alert-info">
+                        <h4 class="alert-heading">Objetivo Principal</h4>
+                        <p>Desenvolver um sistema de pontuação que permita identificar e priorizar leads com maior potencial de conversão, otimizando os esforços das equipes de marketing e vendas.</p>
+                    </div>
+                </section>
+
+                <section id="criterios" class="mb-5">
+                    <h2>Critérios de Pontuação</h2>
+                    <div class="row">
+                        <div class="col-md-6 mb-4">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h5 class="card-title">Público (B2C e B2B)</h5>
+                                    <p class="card-text">A distinção entre B2C e B2B é fundamental, pois as motivações de compra, os processos de decisão, os volumes de negociação e os tipos de produtos/serviços de interesse diferem significativamente.</p>
+                                    <ul class="list-unstyled">
+                                        <li><strong>B2C:</strong> Experiências pessoais, decisão emocional, ciclo curto</li>
+                                        <li><strong>B2B:</strong> Processo racional, múltiplos stakeholders, ciclo longo</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-4">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h5 class="card-title">Faixa Etária</h5>
+                                    <p class="card-text">B2C (36-45 anos) e B2B (35-50 anos). Indica um público com estabilidade financeira e profissional, capaz de investir em pacotes de viagem esportiva de alto valor.</p>
+                                    <ul class="list-unstyled">
+                                        <li><strong>B2C:</strong> Classe A+/A, renda disponível para lazer</li>
+                                        <li><strong>B2B:</strong> Cargos de liderança, poder de decisão</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-4">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h5 class="card-title">Cargo (B2B)</h5>
+                                    <p class="card-text">Cargos de alta direção e gerência com poder de decisão.</p>
+                                    <ul class="list-unstyled">
+                                        <li><strong>C-Level:</strong> CEO, Donos, Diretores (+25 pontos)</li>
+                                        <li><strong>Diretoria:</strong> Comercial, Produto, Marketing (+20 pontos)</li>
+                                        <li><strong>Gerência:</strong> Comercial, Produto, Marketing, Eventos (+15 pontos)</li>
+                                        <li><strong>Outros Cargos:</strong> em Agência de Viagem (+10 pontos)</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-4">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h5 class="card-title">Cargo (B2C)</h5>
+                                    <p class="card-text">Perfil predominante dos clientes B2C.</p>
+                                    <ul class="list-unstyled">
+                                        <li><strong>Empresários</strong></li>
+                                        <li><strong>Donos de empresa</strong></li>
+                                        <li><strong>Diretores</strong></li>
+                                    </ul>
+                                    <div class="alert alert-info mt-3">
+                                        <small>Análise interna indica que a grande maioria dos clientes B2C são donos de empresas.</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-4">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h5 class="card-title">Time de Preferência</h5>
+                                    <p class="card-text">Flamengo, Fluminense e Botafogo. Times com parcerias oficiais e camarotes nos estádios.</p>
+                                    <ul class="list-unstyled">
+                                        <li><strong>Parcerias Oficiais:</strong>
+                                            <ul>
+                                                <li>Botafogo</li>
+                                                <li>Fluminense (Mundial de Clubes)</li>
+                                                <li>Flamengo (futuramente)</li>
+                                            </ul>
+                                        </li>
+                                        <li><strong>Camarotes Exclusivos:</strong>
+                                            <ul>
+                                                <li>Estádios dos times parceiros</li>
+                                                <li>Experiência premium</li>
+                                            </ul>
+                                        </li>
+                                        <li><strong>Base de Torcedores:</strong>
+                                            <ul>
+                                                <li>Alto engajamento</li>
+                                                <li>Potencial de conversão</li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-4">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h5 class="card-title">Eventos e Segmentos</h5>
+                                    <p class="card-text">Futebol (Libertadores, Sul-Americana), Tênis, Fórmula 1, NFL Brasil.</p>
+                                    <ul class="list-unstyled">
+                                        <li>Parceria CONMEBOL</li>
+                                        <li>Eventos premium</li>
+                                        <li>Diversidade de modalidades</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-4">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h5 class="card-title">Tipos de Pacotes</h5>
+                                    <p class="card-text">Diferentes níveis de pacotes oferecidos.</p>
+                                    <ul class="list-unstyled">
+                                        <li><strong>Pacotes de Hospitalidade (Completo):</strong>
+                                            <ul>
+                                                <li>Ingressos VIP</li>
+                                                <li>Acesso a áreas exclusivas</li>
+                                                <li>Catering</li>
+                                                <li>Transporte</li>
+                                                <li>Hospedagem de alto nível</li>
+                                            </ul>
+                                        </li>
+                                        <li><strong>Pacotes Mais Simples:</strong>
+                                            <ul>
+                                                <li>Ingresso + Hotel</li>
+                                                <li>Ingresso + Transporte</li>
+                                                <li>Experiência básica</li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-4">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h5 class="card-title">Net Promoter Score (NPS)</h5>
+                                    <p class="card-text">Métrica de satisfação e lealdade do cliente.</p>
+                                    <ul class="list-unstyled">
+                                        <li><strong>Promotores (9-10):</strong>
+                                            <ul>
+                                                <li>Clientes satisfeitos e leais</li>
+                                                <li>Alta probabilidade de recompra</li>
+                                                <li>Defensores da marca</li>
+                                            </ul>
+                                        </li>
+                                        <li><strong>Neutros (7-8):</strong>
+                                            <ul>
+                                                <li>Satisfeitos, mas não entusiastas</li>
+                                                <li>Potencial para conversão</li>
+                                            </ul>
+                                        </li>
+                                        <li><strong>Detratores (0-6):</strong>
+                                            <ul>
+                                                <li>Clientes insatisfeitos</li>
+                                                <li>Requerem atenção imediata</li>
+                                                <li>Foco em recuperação</li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-4">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h5 class="card-title">Região Geográfica</h5>
+                                    <p class="card-text">Localização estratégica dos leads.</p>
+                                    <ul class="list-unstyled">
+                                        <li><strong>Rio de Janeiro:</strong>
+                                            <ul>
+                                                <li>Camarotes nos estádios</li>
+                                                <li>Base principal de clientes</li>
+                                                <li>Eventos locais</li>
+                                            </ul>
+                                        </li>
+                                        <li><strong>São Paulo:</strong>
+                                            <ul>
+                                                <li>Grande mercado emissor</li>
+                                                <li>Eventos relevantes</li>
+                                                <li>Alto poder aquisitivo</li>
+                                            </ul>
+                                        </li>
+                                        <li><strong>Outras Regiões:</strong>
+                                            <ul>
+                                                <li>Potencial secundário</li>
+                                                <li>Logística específica</li>
+                                                <li>Produtos adaptados</li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-4">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h5 class="card-title">Histórico de Compras</h5>
+                                    <p class="card-text">Análise do comportamento de compra do cliente.</p>
+                                    <ul class="list-unstyled">
+                                        <li><strong>Tipo de Produto:</strong>
+                                            <ul>
+                                                <li>Pacotes de hospitalidade</li>
+                                                <li>Pacotes simples</li>
+                                                <li>Eventos específicos</li>
+                                            </ul>
+                                        </li>
+                                        <li><strong>Frequência:</strong>
+                                            <ul>
+                                                <li>Clientes recorrentes</li>
+                                                <li>Última compra recente</li>
+                                            </ul>
+                                        </li>
+                                        <li><strong>Valor:</strong>
+                                            <ul>
+                                                <li>Ticket médio</li>
+                                                <li>Potencial de gasto</li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-4">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h5 class="card-title">Carrinho Abandonado</h5>
+                                    <p class="card-text">Análise de intenção de compra não finalizada.</p>
+                                    <ul class="list-unstyled">
+                                        <li><strong>Motivos Comuns:</strong>
+                                            <ul>
+                                                <li>Custo inesperado</li>
+                                                <li>Processo de checkout complexo</li>
+                                                <li>Distração</li>
+                                                <li>Necessidade de mais informações</li>
+                                                <li>Comparação de preços</li>
+                                            </ul>
+                                        </li>
+                                        <li><strong>Oportunidades:</strong>
+                                            <ul>
+                                                <li>Comunicação rápida</li>
+                                                <li>E-mail de recuperação</li>
+                                                <li>Oferta especial</li>
+                                                <li>Contato telefônico</li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-4">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h5 class="card-title">Frequência de Interação</h5>
+                                    <p class="card-text">Engajamento digital com os canais da empresa.</p>
+                                    <ul class="list-unstyled">
+                                        <li><strong>Visitas ao Site:</strong>
+                                            <ul>
+                                                <li>Páginas visitadas</li>
+                                                <li>Frequência de visitas</li>
+                                                <li>Tempo gasto</li>
+                                            </ul>
+                                        </li>
+                                        <li><strong>Interação com E-mails:</strong>
+                                            <ul>
+                                                <li>Taxa de abertura</li>
+                                                <li>Taxa de clique (CTR)</li>
+                                                <li>Links clicados</li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-4">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h5 class="card-title">Interação com Fluxos de Automação</h5>
+                                    <p class="card-text">Engajamento com campanhas automatizadas.</p>
+                                    <ul class="list-unstyled">
+                                        <li><strong>Conclusão de Etapas:</strong>
+                                            <ul>
+                                                <li>Download de materiais</li>
+                                                <li>Participação em webinars</li>
+                                                <li>Preenchimento de formulários</li>
+                                            </ul>
+                                        </li>
+                                        <li><strong>Respostas a E-mails:</strong>
+                                            <ul>
+                                                <li>Interação com conteúdo</li>
+                                                <li>Cliques em CTAs</li>
+                                                <li>Engajamento com nutrição</li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <section id="eventos-convencoes" class="mb-5">
+                    <h2>Eventos e Convenções</h2>
+                    <div class="alert alert-info">
+                        <h4 class="alert-heading">Sistema de Pontuação por Evento</h4>
+                        <p>Pontuação baseada no valor estratégico de cada evento para a empresa, considerando:</p>
+                        <ul class="mb-0">
+                            <li>Parceria oficial</li>
+                            <li>Margem</li>
+                            <li>Público-alvo</li>
+                            <li>Potencial de vendas</li>
+                            <li>Relevância da base</li>
+                        </ul>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-6 mb-4">
+                            <div class="card border-primary">
+                                <div class="card-header bg-primary text-white">
+                                    <h5 class="card-title mb-0">Parcerias Oficiais CONMEBOL</h5>
+                                </div>
+                                <div class="card-body">
+                                    <p class="card-text"><strong>+20 pontos</strong></p>
+                                    <p>Máxima prioridade estratégica</p>
+                                    <ul>
+                                        <li>Libertadores</li>
+                                        <li>Sul-Americana</li>
+                                        <li>Produtos exclusivos</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-4">
+                            <div class="card border-success">
+                                <div class="card-header bg-success text-white">
+                                    <h5 class="card-title mb-0">Camarotes no Futebol Nacional</h5>
+                                </div>
+                                <div class="card-body">
+                                    <p class="card-text"><strong>+15 pontos</strong></p>
+                                    <p>Foco em times do Rio de Janeiro</p>
+                                    <ul>
+                                        <li>Flamengo</li>
+                                        <li>Fluminense</li>
+                                        <li>Botafogo</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-4">
+                            <div class="card border-info">
+                                <div class="card-header bg-info text-white">
+                                    <h5 class="card-title mb-0">Eventos Premium</h5>
+                                </div>
+                                <div class="card-body">
+                                    <p class="card-text"><strong>+15 pontos</strong></p>
+                                    <ul>
+                                        <li>Fórmula 1</li>
+                                        <li>NFL Brasil</li>
+                                        <li>Grand Slams de Tênis</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-4">
+                            <div class="card border-warning">
+                                <div class="card-header bg-warning text-white">
+                                    <h5 class="card-title mb-0">Futebol Nacional sem Camarote</h5>
+                                </div>
+                                <div class="card-body">
+                                    <p class="card-text"><strong>+10 pontos</strong></p>
+                                    <ul>
+                                        <li>Brasileirão</li>
+                                        <li>Copa do Brasil</li>
+                                        <li>Estaduais</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="alert alert-warning mt-4">
+                        <h4 class="alert-heading">Observações sobre Conversão em LPs</h4>
+                        <ul class="mb-0">
+                            <li>Pontuação aplicada quando o lead converte em landing pages específicas</li>
+                            <li>Valor estratégico do evento é o principal fator de pontuação</li>
+                            <li>Considerar histórico de conversão por tipo de evento</li>
+                            <li>Atualizar pontuações conforme mudanças nas parcerias</li>
+                        </ul>
+                    </div>
+                </section>
+
+                <section id="sistema-pontuacao" class="mb-5">
+                    <h2>Sistema de Pontuação</h2>
+                    <div class="table-responsive">
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th>Critério</th>
+                                    <th>Pontuação</th>
+                                    <th>Justificativa</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>B2B (Empresa)</td>
+                                    <td>+20 pontos</td>
+                                    <td>Leads B2B geralmente representam um valor de negociação maior</td>
+                                </tr>
+                                <tr>
+                                    <td>B2C (Consumidor Final)</td>
+                                    <td>+5 pontos</td>
+                                    <td>Representa o core de muitas vendas de pacotes de experiência</td>
+                                </tr>
+                                <tr>
+                                    <td>Dentro da Faixa Ideal</td>
+                                    <td>+10 pontos</td>
+                                    <td>Maior probabilidade de ter estabilidade financeira</td>
+                                </tr>
+                                <tr>
+                                    <td>Time Parceiro (FLA/FLU/BOT)</td>
+                                    <td>+20 pontos</td>
+                                    <td>Alto engajamento com produtos exclusivos</td>
+                                </tr>
+                                <tr>
+                                    <td>Eventos CONMEBOL</td>
+                                    <td>+25 pontos</td>
+                                    <td>Parceria estratégica, produtos exclusivos</td>
+                                </tr>
+                                <tr>
+                                    <td>Pacote Hospitalidade</td>
+                                    <td>+20 pontos</td>
+                                    <td>Maior valor agregado e ticket médio</td>
+                                </tr>
+                                <tr>
+                                    <td>Cliente Existente</td>
+                                    <td>+30 pontos</td>
+                                    <td>Menor custo de aquisição, já conhece a marca</td>
+                                </tr>
+                                <tr>
+                                    <td>Carrinho Abandonado</td>
+                                    <td>+35 pontos</td>
+                                    <td>Alta intenção de compra, requer ação imediata</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <div class="alert alert-warning mt-4">
+                        <h4 class="alert-heading">Observações Importantes</h4>
+                        <ul class="mb-0">
+                            <li>Os pontos são cumulativos</li>
+                            <li>Implementar sistema de decaimento de pontos</li>
+                            <li>Revisar critérios periodicamente</li>
+                            <li>Considerar dados implícitos e explícitos</li>
+                        </ul>
+                    </div>
+                </section>
+
+                <section id="niveis-classificacao" class="mb-5">
+                    <h2>Níveis de Classificação</h2>
+                    <div class="row">
+                        <div class="col-md-6 mb-4">
+                            <div class="card border-primary">
+                                <div class="card-header bg-primary text-white">
+                                    <h5 class="card-title mb-0">Lead Muito Quente (SQL)</h5>
+                                </div>
+                                <div class="card-body">
+                                    <p class="card-text">Acima de 100 pontos</p>
+                                    <ul>
+                                        <li>Abandonou um carrinho recentemente</li>
+                                        <li>Cliente existente com histórico relevante</li>
+                                        <li>Lead B2B com cargo de alta direção</li>
+                                        <li>Interesse em eventos CONMEBOL</li>
+                                    </ul>
+                                    <div class="alert alert-info">
+                                        <strong>Ação:</strong> Contato imediato pela equipe comercial
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-4">
+                            <div class="card border-success">
+                                <div class="card-header bg-success text-white">
+                                    <h5 class="card-title mb-0">Lead Quente (MQL)</h5>
+                                </div>
+                                <div class="card-body">
+                                    <p class="card-text">65 - 99 pontos</p>
+                                    <ul>
+                                        <li>Perfil demográfico adequado</li>
+                                        <li>Interesse em eventos específicos</li>
+                                        <li>Engajamento digital consistente</li>
+                                        <li>Cliente com NPS neutro</li>
+                                    </ul>
+                                    <div class="alert alert-info">
+                                        <strong>Ação:</strong> Nutrição avançada e contato consultivo
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-4">
+                            <div class="card border-warning">
+                                <div class="card-header bg-warning text-white">
+                                    <h5 class="card-title mb-0">Lead Morno</h5>
+                                </div>
+                                <div class="card-body">
+                                    <p class="card-text">30 - 64 pontos</p>
+                                    <ul>
+                                        <li>Perfil parcialmente alinhado</li>
+                                        <li>Interesse inicial demonstrado</li>
+                                        <li>Baixo engajamento digital</li>
+                                    </ul>
+                                    <div class="alert alert-info">
+                                        <strong>Ação:</strong> Nutrição básica e conteúdo educativo
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-4">
+                            <div class="card border-danger">
+                                <div class="card-header bg-danger text-white">
+                                    <h5 class="card-title mb-0">Lead Frio</h5>
+                                </div>
+                                <div class="card-body">
+                                    <p class="card-text">Abaixo de 29 pontos</p>
+                                    <ul>
+                                        <li>Perfil desalinhado</li>
+                                        <li>Sem engajamento digital</li>
+                                        <li>NPS detrator</li>
+                                    </ul>
+                                    <div class="alert alert-info">
+                                        <strong>Ação:</strong> Remoção da base ativa ou recuperação
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <section id="consideracoes-adicionais" class="mb-5">
+                    <h2>Considerações Adicionais</h2>
+                    <div class="row">
+                        <div class="col-md-4 mb-4">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h5 class="card-title">Flexibilidade</h5>
+                                    <p class="card-text">A régua de priorização deve ser flexível para permitir:</p>
+                                    <ul>
+                                        <li>Pular etapas quando necessário</li>
+                                        <li>Ajustes baseados em resultados</li>
+                                        <li>Adaptação a mudanças de mercado</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 mb-4">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h5 class="card-title">Feedback Loop</h5>
+                                    <p class="card-text">Sistema de feedback entre equipes:</p>
+                                    <ul>
+                                        <li>Vendas para Marketing</li>
+                                        <li>Qualidade dos MQLs e SQLs</li>
+                                        <li>Refinamento de critérios</li>
+                                        <li>Ajuste de limiares</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 mb-4">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h5 class="card-title">Automação</h5>
+                                    <p class="card-text">Implementação via ferramentas:</p>
+                                    <ul>
+                                        <li>CRM</li>
+                                        <li>Automação de Marketing</li>
+                                        <li>Classificação automática</li>
+                                        <li>Fluxos de nutrição</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </main>
+        </div>
+    </div>
+
+    <!-- Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Custom JS -->
+    <script src="script.js"></script>
+</body>
+</html> 
